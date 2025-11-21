@@ -1,10 +1,10 @@
 [⬅ Go Back](https://github.com/JpMunhozOliveira)
 
-<p align="center">
+<div align="center">
   <a href="#"><img src="https://github.com/JpMunhozOliveira/JpMunhozOliveira/blob/main/resources/images/Projects/FlappyLogo.png" alt="FlappyBird Logo" height="100"></a>
   <br>
   <a href="#"><img src="https://skillicons.dev/icons?i=unity,cs"></a>
-</p>
+</div>
 
 # Description
 
